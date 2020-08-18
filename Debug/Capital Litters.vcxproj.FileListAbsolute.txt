@@ -1,0 +1,4 @@
+C:\Users\moham\OneDrive\Desktop\Capital Litters\Debug\Capital Litters.exe
+C:\Users\moham\OneDrive\Desktop\Capital Litters\Debug\Capital Litters.pdb
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Capital Litters\Debug\Capital Litters.exe
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Capital Litters\Debug\Capital Litters.pdb

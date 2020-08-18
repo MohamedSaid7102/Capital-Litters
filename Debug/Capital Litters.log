@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Capital Litters\Source.cpp(34,40): warning C4129: '.': unrecognized character escape sequence
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Capital Litters\Source.cpp(34,66): warning C4129: '(': unrecognized character escape sequence
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Capital Litters\Source.cpp(34,93): warning C4129: '[': unrecognized character escape sequence
+C:\Users\moham\OneDrive\Desktop\C++ Projects\Capital Litters\Source.cpp(34,119): warning C4129: '{': unrecognized character escape sequence
+  Capital Litters.vcxproj -> C:\Users\moham\OneDrive\Desktop\C++ Projects\Capital Litters\Debug\Capital Litters.exe
